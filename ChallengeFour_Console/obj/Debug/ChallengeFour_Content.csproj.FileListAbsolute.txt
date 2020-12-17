@@ -1,0 +1,6 @@
+C:\Users\Mike\Documents\ElevenFiftyProjects\Gold Badge Challenge Apps\ChallengeFour_Console\bin\Debug\ChallengeFour_Console.dll
+C:\Users\Mike\Documents\ElevenFiftyProjects\Gold Badge Challenge Apps\ChallengeFour_Console\bin\Debug\ChallengeFour_Console.pdb
+C:\Users\Mike\Documents\ElevenFiftyProjects\Gold Badge Challenge Apps\ChallengeFour_Console\obj\Debug\ChallengeFour_Content.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\ElevenFiftyProjects\Gold Badge Challenge Apps\ChallengeFour_Console\obj\Debug\ChallengeFour_Content.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\ElevenFiftyProjects\Gold Badge Challenge Apps\ChallengeFour_Console\obj\Debug\ChallengeFour_Console.dll
+C:\Users\Mike\Documents\ElevenFiftyProjects\Gold Badge Challenge Apps\ChallengeFour_Console\obj\Debug\ChallengeFour_Console.pdb

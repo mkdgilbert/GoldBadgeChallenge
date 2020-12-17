@@ -1,0 +1,6 @@
+C:\Users\Mike\Documents\ElevenFiftyProjects\Gold Badge Challenge Apps\ChallengeOne\Claims_Content\bin\Debug\Claims_Content.dll
+C:\Users\Mike\Documents\ElevenFiftyProjects\Gold Badge Challenge Apps\ChallengeOne\Claims_Content\bin\Debug\Claims_Content.pdb
+C:\Users\Mike\Documents\ElevenFiftyProjects\Gold Badge Challenge Apps\ChallengeOne\Claims_Content\obj\Debug\Claims_Content.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\ElevenFiftyProjects\Gold Badge Challenge Apps\ChallengeOne\Claims_Content\obj\Debug\Claims_Content.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\ElevenFiftyProjects\Gold Badge Challenge Apps\ChallengeOne\Claims_Content\obj\Debug\Claims_Content.dll
+C:\Users\Mike\Documents\ElevenFiftyProjects\Gold Badge Challenge Apps\ChallengeOne\Claims_Content\obj\Debug\Claims_Content.pdb
