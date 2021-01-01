@@ -12,7 +12,7 @@ namespace ChallengeFiveRepo
         current,
         past,
     }
-    public class Customer
+    public class Customer : IComparable<Customer>
     {
         public string LastName { get; set; }
         public string FirstName { get; set; }        
@@ -45,10 +45,11 @@ namespace ChallengeFiveRepo
             FirstName = firstName;
             LastName = lastName;
             TypeOfCustomer = typeOfCustomer;
+        }  
+        public int CompareTo(Customer other)
+        {
+            return this.FirstName.CompareTo(other.FirstName);
         }
-        
-    }
-
-
-   
+    }    
+    
 }

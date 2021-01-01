@@ -1,0 +1,6 @@
+C:\Users\Mike\Documents\ElevenFiftyProjects\Gold Badge Challenge Apps\ChallengeFiveRepo\bin\Debug\ChallengeFiveRepo.dll
+C:\Users\Mike\Documents\ElevenFiftyProjects\Gold Badge Challenge Apps\ChallengeFiveRepo\bin\Debug\ChallengeFiveRepo.pdb
+C:\Users\Mike\Documents\ElevenFiftyProjects\Gold Badge Challenge Apps\ChallengeFiveRepo\obj\Debug\ChallengeFiveRepo.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\ElevenFiftyProjects\Gold Badge Challenge Apps\ChallengeFiveRepo\obj\Debug\ChallengeFiveRepo.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\ElevenFiftyProjects\Gold Badge Challenge Apps\ChallengeFiveRepo\obj\Debug\ChallengeFiveRepo.dll
+C:\Users\Mike\Documents\ElevenFiftyProjects\Gold Badge Challenge Apps\ChallengeFiveRepo\obj\Debug\ChallengeFiveRepo.pdb

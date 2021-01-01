@@ -5,8 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ChallengeFiveRepo
-{
-    class Repo
+{   
+    public class Repo
     {
         List<Customer> _listOfCustomers = new List<Customer>();
         //Create
@@ -17,6 +17,13 @@ namespace ChallengeFiveRepo
         //Read 
         public List<Customer> ReadListOfCustomers()
         {
+            //Below utilizes a Comparison Delegate to sort 
+            // _listOfCustomers.Sort(delegate (Customer c1, Customer c2) { return c1.FirstName.CompareTo(c2.FirstName); });
+
+            //Another way is using lambda expression
+            //_listCustomers.Sort((x,y) => x.FirstName.CompareTo(y.FirstName));
+
+            _listOfCustomers.Sort();
             return _listOfCustomers;
         }
         //Update
@@ -61,6 +68,6 @@ namespace ChallengeFiveRepo
                 }
             }
             return null;
-        }
+        }               
     }
 }
